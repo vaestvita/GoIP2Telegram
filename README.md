@@ -14,4 +14,4 @@ This PHP script is designed to forward SMS messages received from a GoIP SMS ser
 1. Create a Telegram bot and obtain its token.
 2. Determine the chat ID of your Telegram group.
 3. Configure the script with your bot token and chat ID.
-4. Set up your GoIP SMS server to send incoming SMS details to this script via POST requests (System Manage -> GoIP Manage -> Modify -> chek 'Forward SMS to HTTP' and plase url http://ypur-host/message.php).
+4. Set up your GoIP SMS server to send incoming SMS details to this script via POST requests (System Manage -> GoIP Manage -> Modify -> chek 'Forward SMS to HTTP' and plase url http://your-host/message.php).
